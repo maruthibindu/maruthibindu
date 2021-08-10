@@ -1,7 +1,43 @@
-header{
-    width:80%
-    background-color=pink;
-    margin-left:auto;
-    margin-right:auto;
-    padding:10px;
+p
+{
+background-color:red;
+color:blue;
+
+margin-right:30px;
+padding:10px;
+}
+h1
+{
+height:10%;
+width:40%;
+background-color:pink;
+color:green;
+line-height:2px;
+font-size:1.2em;
+
+
+margin-left:400px;
+
+padding:10px;
+
+}
+p1{
+background-color:yellow;
+font-color:green;
+float:right;
+}
+h2
+{background-color:orange;
+color:pink;
+float:left;
+}
+header
+{
+background-color:green;
+color:white;
+
+
+margin-left:500px;
+margin-right:500px;
+padding:10px;
 }
