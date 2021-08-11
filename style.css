@@ -9,7 +9,7 @@ padding:10px;
 h1
 {
 height:10%;
-width:40%;
+width:50%;
 background-color:pink;
 color:green;
 line-height:2px;
@@ -35,7 +35,7 @@ header
 {
 background-color:green;
 color:white;
-
+height:50%;
 
 margin-left:500px;
 margin-right:500px;
